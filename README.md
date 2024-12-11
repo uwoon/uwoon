@@ -15,10 +15,11 @@
 * 2024 대한민국 SW교육 페스티벌 **대학생 대표팀** 선정 *`2024.09`*
 * 2024 세종대학교 창업아이템 경진대회 **최우수상** *`2024.12`*
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/doyun5565?pet-id=650960073721637174"
     width="600"
-    height="120"
+    height="200"
   />
 </a>
