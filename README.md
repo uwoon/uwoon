@@ -9,10 +9,11 @@
 * 멋쟁이사자처럼SJU 12기 - 프론트엔드 *`2024.01 ~ 2024.12`*
 * Kakao x goorm 9oormthon UNIV 3기 - 프론트엔드 · 기획 *`2024.08 ~ 2024.12`*
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doyun5565&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/doyun5565?pet-id=650960073721637174"
+    src="https://render.gitanimals.org/lines/doyun5565?pet-id=650960028855172476"
     width="600"
-    height="200"
+    height="120"
   />
 </a>
+  
