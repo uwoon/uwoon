@@ -14,6 +14,6 @@
   <img
     src="https://render.gitanimals.org/lines/uwoon?pet-id=696371776439176893"
     width="600"
-    height="200"
+    height="180"
   />
 </a>
