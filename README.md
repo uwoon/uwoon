@@ -10,19 +10,29 @@
 * Kakao x goorm 9oormthon UNIV 3기 *`2024.08 ~ 2024.12`*
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=uwoon&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/uwoon?pet-id=696371776439176893"
-    width="600"
-    height="190"
-  />
-</a>
+<table>
+  <tr>
+    <td width="700">
+      <img src="https://render.gitanimals.org/lines/uwoon?pet-id=696371776439176893"
+           width="300" height="300" />
+    </td>
+    <td width="700">
+      <img src="https://render.gitanimals.org/lines/uwoon?pet-id=760815749205003839"
+           width="300" height="300" />
+    </td>
+  </tr>
+  <tr>
+    <td width="700">
+      <img src="https://render.gitanimals.org/lines/uwoon?pet-id=787931787662803705"
+           width="300" height="300" />
+    </td>
+    <td width="700">
+      <img src="https://render.gitanimals.org/lines/uwoon?pet-id=787931767081359410"
+           width="300" height="300" />
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=uwoon&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/uwoon?pet-id=760815749205003839"
-    width="900"
-    height="200"
-  />
-</a>
+
+
   
